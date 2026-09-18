@@ -1,23 +1,13 @@
 # 千应合同发票管理软件
-
 千应合同发票管家 v2.3.0，由杭州千应科技有限公司发布。支持本地合同与发票管理、离线 OCR、回款跟踪、Excel 导入导出及数据备份。
-
 ## 下载与安装
-
 请到 [v2.3.0 发布页](https://github.com/qianyu-126/qianying-contract-invoice-manager/releases/tag/v2.3.0) 下载对应安装包：
-
-- Mac Apple 芯片：`千应合同发票管家-2.3.0-Mac-Apple芯片.dmg`
-- Windows 64 位：`千应合同发票管家-2.3.0-Windows-x64.exe`
-
+- Mac Apple 芯片：`QianYing-Contract-Invoice-Manager-2.3.0-Mac-AppleSilicon.dmg`
+- Windows 64 位：`QianYing-Contract-Invoice-Manager-2.3.0-Windows-x64.exe`
 首次导入合同或手工录入时的设备解锁密码：**千应停车充电**。同一设备仅需输入一次。
-
 合同数据保存在本机；导入的附件仅关联原文件路径，请先将聊天文件另存到固定文件夹再导入。升级前建议通过软件的数据与设置页面备份重要数据。
-
 ## 安装包校验（SHA-256）
-
 - Mac DMG：`b14587023d71aefbd327ecd3100dd0b429a62fe16f235e36b90d383e6be0591a`
 - Windows EXE：`56e3dbee41cac83741be225c4b8b95634a4113e3cf069f6355f32fa60111affa`
-
 本公开仓库仅发布安装包与说明。GitHub 自动提供的 Source code 压缩包只包含本仓库的说明文件，不是应用程序源码。
-
 产权所有方：杭州千应科技有限公司｜微信：15397058960
